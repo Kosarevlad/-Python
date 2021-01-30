@@ -1,5 +1,0 @@
-n = (input('Значение n:'))
-nn = int(n + n)
-nnn = int(n + n + n)
-m = (int(n) + int(nn) + int(nnn))
-print(m)
